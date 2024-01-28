@@ -1,4 +1,5 @@
 # DEX dev
+https://www.youtube.com/watch?v=knMuwRezDtA
 
 ## Technology Stack & Tools
 
